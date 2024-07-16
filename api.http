@@ -1,0 +1,4 @@
+### GET request to example server
+GET http://localhost:5000/api/data?ad_archive_id=3798097503781275
+
+### https://www.facebook.com/ads/library/?id=3798097503781275
